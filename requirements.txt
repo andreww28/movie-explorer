@@ -1,0 +1,4 @@
+pyautogui
+ctypes
+comtypes
+pycaw
